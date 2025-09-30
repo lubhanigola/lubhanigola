@@ -32,7 +32,7 @@ With skills in **Python, SQL, Power BI, and Excel**, I enjoy working on projects
 
 ## 📌 Featured Projects
 - [🎬 Movie Data Analysis](https://github.com/lubhanigola/Movie-Data-Analysis) – ROI, revenue trends & visualizations *(Python, Pandas, Matplotlib)*  
-- [📈 Sales Dashboard](https://github.com/lubhanigola/Sales-Dashboard) – Interactive Power BI dashboard with KPIs  
+- [📈 Sales Dashboard]([https://github.com/lubhanigola/Sales-Dashboard](https://github.com/lubhanigola/Projects/blob/main/Ecommerce%20Sales%20Analysis.pbix)) – Interactive Power BI dashboard with KPIs  
 - [🧹 Data Wrangling Scripts](https://github.com/lubhanigola/Data-Wrangling) – Python scripts to clean and preprocess datasets  
 
 ---
