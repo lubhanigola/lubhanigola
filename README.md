@@ -1,54 +1,46 @@
-# Hi, I'm Lubhani Gola 👋 — Glad to see you here!
-
-I’m an **Aspiring Data Analyst** passionate about transforming raw data into meaningful insights.  
-With skills in **Python, SQL, Power BI, and Excel**, I enjoy working on projects that combine data cleaning, visualization, and storytelling.  
+<h1 align="center">Hi 👋, I'm Lubhani Gola</h1>
+<h3 align="center">Good to see you here 😊 | Data Analyst | Career Switcher | Lifelong Learner</h3>
 
 ---
 
-## 🔭 What I’m working on
-- Building interactive dashboards with **Power BI**
-- Practicing **Python data wrangling** using Pandas & NumPy
-- Exploring SQL queries for business insights
+### 🌱 About Me
+Data Analyst transitioning from **Customer Care Executive** with **3.3 years of experience**.  
+Proficient in **Advanced Excel, SQL, Power BI, Python, and EDA**, with strong expertise in **data cleaning, visualization, and performance analysis** to enable stakeholders in making **data-driven decisions and insight generations**.  
 
 ---
 
-## 🌱 What I’m learning
-- Advanced DAX functions in Power BI
-- Data modeling and ETL workflows
-- Visualization best practices
-- Data cleaning on SQL
+### 🛠 Skills & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40" title="Advanced Excel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" title="Power BI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+</p>
 
 ---
 
-## 🛠️ Tools & Technologies
-
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### 📂 Featured Projects
+- [**Healthcare Analysis Dashboard (SQL + Power BI)**](#) – Patient demographics, billing, and medical insights  
+- [**E-commerce Sales Analysis Dashboard (Power BI)**](#) – Sales trends, top products, and customer segmentation  
+- [**Watch Now Dashboard (Excel)**](#) – Performance tracking with KPIs and insights  
 
 ---
 
-## 📌 Featured Projects
-- [🎬 Movie Data Analysis](https://github.com/lubhanigola/Movie-Data-Analysis) – ROI, revenue trends & visualizations *(Python, Pandas, Matplotlib)*  
-- [📈 Sales Dashboard](https://github.com/lubhanigola/Projects/blob/main/Ecommerce%20Sales%20Analysis.pbix) – Interactive Power BI dashboard with KPIs  
-- [🧹 Data Wrangling Scripts](https://github.com/lubhanigola/Data-Wrangling) – Python scripts to clean and preprocess datasets  
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lubhanigola&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lubhanigola&theme=tokyonight" alt="Streak Stats" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
-![Lubhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=lubhanigola&show_icons=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lubhanigola)  
-
----
-
-## 📫 Let’s Connect
-- LinkedIn: www.linkedin.com/in/lubhani-gola-8b84561ba  
-- Email: lubhani564@gmail.com  
+### 🔗 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/lubhani-gola-8b84561ba" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile!* ⭐
-
+⚡ **Fun Fact:** I love turning raw data into meaningful insights!
