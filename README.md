@@ -21,21 +21,9 @@ Proficient in **Advanced Excel, SQL, Power BI, Python, and EDA**, with strong ex
 
 # 🚀 Featured Projects  
 
-## 🏥 Healthcare Analysis Dashboard (SQL + Power BI)
-[![Healthcare Dashboard](https://github.com/lubhanigola/Power-BI-Projects/raw/main/Healthcare_Dashboard/Healthcare%20Dashboard.png)](https://github.com/lubhanigola/Power-BI-Projects/tree/main/Healthcare_Dashboard)  
-A data cleaning & analysis project using SQL and Power BI.  
-
----
-
-## 🛒 Ecommerce Sales Analysis (Power BI)
-[![Ecommerce Dashboard](https://github.com/lubhanigola/Power-BI-Projects/raw/main/Ecommerce_Sales_Dashboard/Ecommerce%20Sales%20Dashboard.png)](https://github.com/lubhanigola/Power-BI-Projects/tree/main/Ecommerce_Sales_Dashboard)  
-Exploring customer behavior, product trends, and sales performance.  
-
----
-
-## 🎬 Watch Now – Movie Analytics (Excel)
-[![Watch Now Dashboard](https://github.com/lubhanigola/Excel-Projects/raw/main/Watch%20Now/Watch%20Now%20Dashboard.png)](https://github.com/lubhanigola/Excel-Projects/tree/main/Watch%20Now)  
-Excel-based interactive dashboard revealing global movie trends.  
+- 🏥 [Healthcare Analysis Dashboard (SQL + Power BI)](https://github.com/lubhanigola/Power-BI-Projects/tree/main/Healthcare_Dashboard)  
+- 🛒 [Ecommerce Sales Analysis (Power BI)](https://github.com/lubhanigola/Power-BI-Projects/tree/main/Ecommerce_Sales_Dashboard)  
+- 🎬 [Watch Now – Movie Analytics (Excel)](https://github.com/lubhanigola/Excel-Projects/tree/main/Watch%20Now)  
 
 ---
 
