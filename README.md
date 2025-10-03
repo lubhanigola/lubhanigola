@@ -21,7 +21,7 @@ Proficient in **Advanced Excel, SQL, Power BI, Python, and EDA**, with strong ex
 
 # 🚀 Featured Projects  
 
-- 🏥 [Healthcare Analysis Dashboard (SQL + Power BI)](https://github.com/lubhanigola/Power-BI-Projects/tree/main/Healthcare_Dashboard)  
+- 🏥 [Healthcare Analysis Dashboard (SQL + Power BI)](https://github.com/lubhanigola/SQL-Projects/tree/main/SQL%20Data%20Cleaning)
 - 🛒 [Ecommerce Sales Analysis (Power BI)](https://github.com/lubhanigola/Power-BI-Projects/tree/main/Ecommerce_Sales_Dashboard)  
 - 🎬 [Watch Now – Movie Analytics (Excel)](https://github.com/lubhanigola/Excel-Projects/tree/main/Watch%20Now)  
 
